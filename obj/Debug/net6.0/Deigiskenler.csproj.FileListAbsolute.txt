@@ -1,0 +1,15 @@
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\bin\Debug\net6.0\Deigiskenler.exe
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\bin\Debug\net6.0\Deigiskenler.deps.json
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\bin\Debug\net6.0\Deigiskenler.runtimeconfig.json
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\bin\Debug\net6.0\Deigiskenler.dll
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\bin\Debug\net6.0\ref\Deigiskenler.dll
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\bin\Debug\net6.0\Deigiskenler.pdb
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\obj\Debug\net6.0\Deigiskenler.csproj.AssemblyReference.cache
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\obj\Debug\net6.0\Deigiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\obj\Debug\net6.0\Deigiskenler.AssemblyInfoInputs.cache
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\obj\Debug\net6.0\Deigiskenler.AssemblyInfo.cs
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\obj\Debug\net6.0\Deigiskenler.csproj.CoreCompileInputs.cache
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\obj\Debug\net6.0\Deigiskenler.dll
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\obj\Debug\net6.0\ref\Deigiskenler.dll
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\obj\Debug\net6.0\Deigiskenler.pdb
+C:\Users\mohamed94\Desktop\Pratikler\Deigiskenler\obj\Debug\net6.0\Deigiskenler.genruntimeconfig.cache
